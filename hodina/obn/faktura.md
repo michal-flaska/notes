@@ -1,8 +1,8 @@
 # Faktúra č. 2025001
 
-**Dátum vystavenia:** 27.01.2025  
-**Dátum splatnosti:** 11.02.2025  
-**Dátum dodania:** 29.01.2025  
+**Dátum vystavenia:** 28.01.2025  
+**Dátum splatnosti:** 12.02.2025  
+**Dátum dodania:** 30.01.2025  
 
 ---
 
@@ -11,26 +11,23 @@
 Adresa: Hlavná 123, 811 01 Bratislava, Slovensko  
 IČO: 52473891  
 DIČ: 2121085476  
-IČ DPH: SK2121085476  
 
 ---
 
 ## PREDMET FAKTURÁCIE:
-| NÁZOV                    | POČET | JEDN. CENA | CELKOM  | DPH (20%) |
-|--------------------------|-------|------------|---------|-----------|
-| Vývoj webovej aplikácie  | 1     | 499,00 €   | 499,00 € | 99,80 €   |
-| Konzultácie (hodinové)   | 3     | 50,00 €    | 150,00 € | 30,00 €   |
-| UI/UX dizajn             | 1     | 249,00 €   | 249,00 € | 49,80 €   |
-| Hosting a doména (1 rok) | 1     | 99,00 €    | 99,00 €  | 19,80 €   |
+| NÁZOV                    | POČET | JEDN. CENA | CELKOM  |
+|--------------------------|-------|------------|---------|
+| Vývoj webovej aplikácie  | 1     | 499,00 €   | 499,00 € |
+| Konzultácie (hodinové)   | 3     | 50,00 €    | 150,00 € |
+| UI/UX dizajn             | 1     | 249,00 €   | 249,00 € |
+| Hosting a doména (1 rok) | 1     | 99,00 €    | 99,00 €  |
 
 ---
 
 ### **SUMÁR**
 | Popis         | Suma       |
 |--------------|-----------|
-| **Medzisúčet:** | 997,00 €  |
-| **DPH (20%):**  | 199,40 €  |
-| **CELKOM K ÚHRADE:** | **1 196,40 €** |
+| **CELKOM K ÚHRADE:** | **997,00 €** |
 
 ---
 
@@ -60,3 +57,4 @@ IBAN: SK12 1100 0000 0026 9876 5432
 ---
 
 > Ďakujeme za spoluprácu!  
+
