@@ -1,6 +1,4 @@
-I'll explain C++ files in the simplest way possible!
-
-Think of building a house:
+# Difference between CPP and Header Files
 
 ## Header Files (.h or .hpp)
 
@@ -11,7 +9,6 @@ Think of building a house:
 - Shows function names, what they take as input, what they return
 - Shows class/struct layouts
 - Like saying "There's a function called `calculateTax` that takes a number and returns a number" - but doesn't show the actual math
-
 
 Example:
 
@@ -29,7 +26,6 @@ int multiply(int a, int b);   // "And a multiply function too!"
 - Contains **definitions** - the real implementation
 - Shows HOW functions actually work
 - Like showing the actual math: "To calculate tax, multiply by 0.08"
-
 
 Example:
 
@@ -58,6 +54,5 @@ int multiply(int a, int b) {
 
 - **Header file** = Restaurant menu (shows what's available)
 - **CPP file** = Kitchen (where the actual cooking happens)
-
 
 You look at the menu to see what you can order, but you don't need to see the kitchen to know the food exists!
