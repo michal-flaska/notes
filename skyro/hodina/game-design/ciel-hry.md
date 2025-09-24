@@ -1,0 +1,5 @@
+- hracova uloha v hernom priestore
+- preco ma hrac dokoncit hru?
+- preco ma hrac vykonavat danu cinnost?
+- Example:
+  - skore; byt lepsi nez ostatny; zachranit svet
