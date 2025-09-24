@@ -7,7 +7,7 @@
 - hra sa ma hrat
 - hra nemusi byt len digitalna
 
-##Elementy hier:
+## Elementy hier:
 - MDA Framework
   - a formal model in game design for analyzing and creating games by breaking them down into three core components:
     - Mechanics
