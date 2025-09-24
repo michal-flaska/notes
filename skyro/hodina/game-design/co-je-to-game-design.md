@@ -1,0 +1,4 @@
+- tvorba zazitku
+- spojenie vsetkych aspektov hry do zelaneho herneho zaztku
+  - inf. technologie, sociologia, naracia, atd.
+- 
