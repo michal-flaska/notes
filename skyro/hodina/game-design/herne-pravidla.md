@@ -1,0 +1,5 @@
+- nemenne pravidla ktorymi herne prostredie je podriadene
+  - (pokym nepride misko z cheat enginom)
+- casto game designery toto pravidlo porusuju
+- kazda vec/mechanika ma svoj zmysel a ciel
+- 
