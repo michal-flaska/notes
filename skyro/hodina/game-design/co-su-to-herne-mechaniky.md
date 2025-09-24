@@ -1,0 +1,3 @@
+- Konstrukcia metod nadizajnovanych na interakciu s hernym prostredim
+- vsetky sposoby ovplyvnenia herneho prostredia 
+- 
