@@ -1,0 +1,3 @@
+- Give me 180 secs and CODING will be your addiction: https://youtu.be/piKJOD2s8KY
+- How to STUDY so FAST it feels like CHEATING: https://youtu.be/9tDkkKDQWlg
+- Techniques for dealing with lack of motivation, malaise, depression: https://youtu.be/i7kh8pNRWOo
