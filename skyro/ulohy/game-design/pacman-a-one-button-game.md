@@ -29,6 +29,3 @@ Pac-Man sa pohybuje v bludisku a zbiera male bodky (dots) pre body, vacsie blika
     - Cize to bude vychadzat cca 2.5k MAX
 <br>
 - zarabat by to mohlo na reklamach medzi hrami a mozno maly shop s kozmetikou pre robota (skin, farby, efekty). A ver mi ze deti do toho mozno nabuchaju peniaze :)
-- na hre by realne stacil 1-2 ludia.
-  - jeden programator a jeden grafik.
-  - ak by bol cas tak zvukar tiez
