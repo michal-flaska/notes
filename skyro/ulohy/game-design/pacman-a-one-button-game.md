@@ -6,11 +6,18 @@ Pac-Man sa pohybuje v bludisku a zbiera male bodky (dots) pre body, vacsie blika
 
 ## One button game:
 
-- čo je to za hra ? (žáner, príbeh,...)
-- aká je hlavná mechanika ?
-- ako má vyzerať ?
-- aká je konkurencia ? 
-- čím je hra výnimočná oproti konkurencie ?
-- koľko má stáť vývojovo ? 
-- ako sa bude zarábať na hre ? 
-- koľko ľudí bude na nej pracovať ?
+- hra je endless runner, ale ze si lietajuci robot ktory sa snazi uniknut z fabriky. nema to ziadny velky pribeh, je to skor taky arcade chill ze chces prekonat vlastny rekord
+- hlavna mechanika je jedine tlacidlo
+  - ked drzis tlacidlo tak robot leti hore, ked pustis tak pada dole
+  - vsetko je o tajmingu, aby si sa vyhol prekazkam a zbieral energiu
+- mohlo by to byt stylizovane 2D, nieco medzi retro pixel artom a modernym svetlom/efektmi
+  - farby by boli syte, aby hra vyzerala zabavne a zaujimavo
+- konkurencia je napr flappy bird alebo jetpack joyride
+- moja hra je vynimocna tym, ze ma viac vrstiev, nielen ze lietas a vyhybas sa, ale aj zbieranie energii ti dava boosty, menia sa prostredia a obcas pridu mini boss sekcie kde musis presne tajmovat aby si presiel.
+  - je to viac dynamicke a nie stale to iste.
+- vyvojovo by to nemalo stat vela, kedze je to jednoducha 2D hra.
+  - cca 10k eur
+- zarabat by to mohlo na reklamach medzi hrami a mozno maly shop s kozmetikou pre robota (skin, farby, efekty).
+- na hre by realne stacil 1-2 ludia.
+  - jeden programator a jeden grafik.
+  - ak by bol cas tak zvukar tiez
