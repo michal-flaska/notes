@@ -1,3 +1,3 @@
 #include <iostream>
 
-int main(){std::cou
+int main(){std::cout
