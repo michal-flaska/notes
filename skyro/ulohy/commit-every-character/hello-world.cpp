@@ -1,3 +1,3 @@
 #include <iostream>
 
-int main(){st
+int main(){std
