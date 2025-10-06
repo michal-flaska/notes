@@ -1,3 +1,3 @@
 #include <iostream>
 
-int ma
+int mai
