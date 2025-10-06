@@ -22,10 +22,19 @@ Pac-Man sa pohybuje v bludisku a zbiera male bodky (dots) pre body, vacsie blika
 <br>
 - vyvojovo by to nemalo stat vela, kedze je to jednoducha 2D hra.
   - Ak development bude trvat 1 mesiac (co pravdepodobne aj bude), a vyplaty su mesacne (mesiac 160h avg pre cloveka) tak:
-    - Programator: 20h x 15e = 300e
-    - Zvukar: 50h x 12e = 600e
-    - Grafik: 100h x 13e = 1300e
+    - Programator (15e/h)
+      - main mechanics: 10h
+      - bugfixes: 5h
+    - Zvukar (12e/h)
+      - music: 20h
+      - sound effects: 10h
+    - Grafik (13e/h)
+      - characters: 10h
+      - pickups: 5h
+      - misc (background, objects, etc.): 20h
     - PlayStore deployment tax: 10
-    - Cize to bude vychadzat cca 2.5k MAX
+    - Cize to bude vychadzat cca 1265 - 1500 MAX
 <br>
 - zarabat by to mohlo na reklamach medzi hrami a mozno maly shop s kozmetikou pre robota (skin, farby, efekty). A ver mi ze deti do toho mozno nabuchaju peniaze :)
+
+15(10 + 15) + 12(20 + 10) + 13(15 + 5 + 20) + 10
