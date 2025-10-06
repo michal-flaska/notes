@@ -1,3 +1,3 @@
 #include <iostream>
 
-int main(){std::cout<<"hello world";retur
+int main(){std::cout<<"hello world";return
