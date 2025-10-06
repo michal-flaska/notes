@@ -24,3 +24,9 @@
 - The sense of control
 - The loss of self-consciousness
 - The transformation of time
+
+## Flow in games
+
+1. As a premise, the game is intrinsically rewarding and the player is up to play any game.
+2. The game offers right amount of challenges to match with the player's ability, which allows him/her to delve deeply into the game.
+3. The player needs to feel a sense of personal control over the game activity.
