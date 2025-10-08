@@ -1,0 +1,4 @@
+# Je známkovanie efektívny spôsob hodnotenia študentov?
+
+Je známkovanie efektívny spôsob hodnotenia študentov?
+Toto je otázka čo si určite kladie velké množstvo študentov, avšak odpovedať na túto otázku neni zrovna najlahšie... Prečo? Každý z nás je iný, a každému vyhovuje iný spôsob výučby. Podla mna by domáce úlohy mali byť dobrovolné a nie povinné. A prečo? Lebo žiaci majú už 6-7 hodín v škole a potom ešte niekolko hodín musia robit domáce úlohy doma, a nie všetci bývaju blízko pri škole, takže ešte musíme zarátať čas kedy cestujú domov. A tam nam ostáva už menej z ich vlastného volného času na oddych, a nie je zrovna najlepšie extrémne vytažovať mozog žiakov lebo to môže viesť ku vyčerpaniu, kolapsu a poprípade niakym mentálnym tažkostiam. A aj tak väččina žiakov si dorába domáce úlohy počas hodiny, prestávky či tesne pred začatím školy.
