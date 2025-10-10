@@ -1,0 +1,1 @@
+The notes will be added soon, i just need to finish the notes in [cpp_tutorial](https://github.com/michal-flaska/cpp_tutorial), and then i will move them here and edit them a little bit
