@@ -4,13 +4,13 @@ these are my personal notes for learning cheat development from scratch. i'm doc
 
 ## who is this for?
 
-mainly me, but if you're also learning cheat dev and find these useful, feel free to use them. pull requests are welcome if you want to improve something or add missing info.
+i create notes for myself, but i modified my own cheat dev notes to be suitable also for other people because i think that its a really nice and interesting topic. so if you're also learning cheat dev and find these useful, feel free to use them. pull requests are welcome if you want to improve something or add missing info.
 
 ## learning path
 
 the notes are organized in a specific order that builds on previous knowledge. **follow them sequentially** - don't jump ahead unless you already know the basics.
 
-here's the structure:
+here's current structure:
 
 1. **fundamentals** - how computers, memory, and processors work
 2. **programming basics** - C++ fundamentals you need to know
@@ -28,12 +28,13 @@ these notes are written in a straightforward way:
 - no unnecessary complications
 - practical examples over theory
 - code comments in lowercase (except variable names and proper nouns)
-- human-readable, not AI-generated corporate speak type shit
+- human-readable and not some AI-generated corporate speak type shit
+- no emojis, i absolutely hate to put emojis into my code and notes
 
 ## code examples
 
-simple code snippets are inline in the markdown files. multi-file projects will go in `assets/code-examples/` when needed.
+simple code snippets are inline in the markdown files. multi-file projects will go into the `assets/code-examples/` directory when needed.
 
 ---
 
-if you're reading this and learning too, good luck. game hacking is a rabbit hole but it's fun as hell - atleast for me
+if you're reading this and learning too, good luck. game hacking is a rabbit hole but it's fun as hell (atleast for me)
