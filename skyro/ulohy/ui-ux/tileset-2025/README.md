@@ -1,1 +1,1 @@
-These assets were used in: https://github.com/michal-flaska/unity-opakovanie-1/tree/main/ProgramovanieOvce
+Update: to view the new versions of these assets, please go to: https://github.com/redfox-studios/dagoose
