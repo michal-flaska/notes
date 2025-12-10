@@ -1,1 +1,0 @@
-Learning resources, such as videos, and more!
