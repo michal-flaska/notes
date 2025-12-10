@@ -1,0 +1,47 @@
+prefix
+- co- :                 cooperation, coexistence, coworker
+- dis- :                disagreement, disappointment, disorder
+- fore- :               forehead, forecast, foreground
+- non- :                nonsense, nonprofit, nonviolence
+- ex- :                 ex-girlfriend, ex-president, ex-employee
+- trans- :              transformation, transportation, translation
+- anti- :               antibiotic, antidote, antisocial
+- a- :                  atheism, apathy, asymmetry
+- allo- :               allotment, allocation, allomorph
+- re- :                 reaction, rebuilding, replacement
+- semi- :               semicircle, semiconductor, semifinal
+- alter- :              alteration, alternative, altercation
+- mis- :                misunderstanding, misinformation, mistake
+- multi- :              multiplication, multimedia, multitasking
+- sub- :                submarine, subdivision, subtitle
+- super- :              supermarket, supervisor, superhero
+- auto- :               autobiography, automation, automobile
+- bi- :                 bicycle, biography, bilingualism
+- micro- :              microscope, microorganism, microphone
+- bio- :                biology, biography, biochemistry
+
+suffix
+- -ly :                 friendly, deadly, brotherly
+- -ness :               happiness, darkness, kindness
+- -ment :               development, movement, achievement
+- -ance/-ence/-ience :  importance, confidence, patience
+- -ship :               friendship, leadership, scholarship
+- -ee :                 employee, trainee, refugee
+- -er/-or :             teacher, actor, programmer
+- -ist :                scientist, artist, journalist
+- -o/-logy :            biology, technology, psychology
+- -ism:                 capitalism, tourism, journalism
+- -um:                  stadium, museum, aquarium
+- -wise:                clockwise, likewise, otherwise
+- -hood:                childhood, neighborhood, motherhood
+- -ion/-tion/-sion:     education, creation, confusion
+- -ity:                 creativity, reality, possibility
+
+prefix + suffix
+- unemployment          (un- + employ + -ment)
+- disconnection         (dis- + connect + -ion)
+- reconstruction        (re- + construct + -ion)
+- mismanagement         (mis- + manage + -ment)
+- cooperation           (co- + operate + -ion)
+- transformation        (trans- + form + -ation)
+- biosecurity           (bio- + secure + -ity)
